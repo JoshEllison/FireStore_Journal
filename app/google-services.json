@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "218149868871",
+    "firebase_url": "https://self-journal-4dafa.firebaseio.com",
+    "project_id": "self-journal-4dafa",
+    "storage_bucket": "self-journal-4dafa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218149868871:android:c39def41e7141ffce92862",
+        "android_client_info": {
+          "package_name": "com.josh.selfjournal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218149868871-1ol6dfl5n50f65odmmemso48pkua6nbn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.josh.selfjournal",
+            "certificate_hash": "bc9becacd84c217d9e24b527da2e77504134292c"
+          }
+        },
+        {
+          "client_id": "218149868871-ber7k01coa9hssv78a836kokadgdvrpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYLhT3DZoh6XdKhvnR9hIufNSP1U_b9Fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218149868871-ber7k01coa9hssv78a836kokadgdvrpo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
